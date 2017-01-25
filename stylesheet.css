@@ -39,3 +39,8 @@ a:visited {
   font-family: Impact;
   color: white;
 }
+
+a:hover {
+  font-family: Impact;
+  color: red;
+ }
