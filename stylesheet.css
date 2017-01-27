@@ -2,12 +2,12 @@ body {
   font-family: Impact;
   padding: 100px;
   font-size: 50px;
-  color: white;
+  color: black;
   background-color: black;
 }
 
 div {
-  background: #00FFFF;
+  background: white;
   margin: 0 auto;
   width: 800px;
   padding: 100px;
@@ -30,18 +30,18 @@ ul {
   }
 a:link {
   font-family: Impact;
-  color: white;
+  color: black;
   
   
 }
 
 a:visited {
   font-family: Impact;
-  color: white;
+  color: black;
 }
 
 a:hover {
   font-family: Impact;
-  color: red;
+  color: white;
  }
 
